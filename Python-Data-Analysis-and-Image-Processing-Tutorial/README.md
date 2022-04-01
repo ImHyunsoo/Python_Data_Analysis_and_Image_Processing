@@ -1,5 +1,6 @@
 ##  나동빈님 파이썬을 활용한 데이터 분석과 이미지 처리
 * 나동빈님의 파이썬을 활용한 데이터 분석과 이미지 처리 강의자료 및 소스코드
+* [나동빈님 강의 자료 리포지터리](https://github.com/ndb796/Python-Data-Analysis-and-Image-Processing-Tutorial)
 
 ### 목차 구성
 * 0강: 강의 소개 [(:bookmark_tabs: 강의 자료)](/00.%20강의%20소개/) [(:link: 유튜브 강의 보러가기)](https://www.youtube.com/watch?v=V8Lpf3WCZ4g&list=PLRx0vPvlEmdBx9X5xSgcEk4CEbzEiws8C&index=1)
