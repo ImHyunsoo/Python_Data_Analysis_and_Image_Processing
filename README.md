@@ -32,8 +32,16 @@
 ##### 데이터 수집과 분석
 * 웹 브라우저를 통해 데이터를 수집합니다. 
 <img src="https://user-images.githubusercontent.com/20950569/161182942-d709f322-519e-4719-b01b-b0ab05e10f52.png" width="400" height="140"/>
+
 * 색상 추출기를 활용하여, 각 문자의 색상이 어떻게 구성되어 있는지 확인합니다.
 <img src="https://user-images.githubusercontent.com/20950569/161183567-d838720c-8022-4040-b1e7-4d3a18a4a51a.png" width="400" height="140"/>
+
+##### 데이터 정제
+* 색상별로 이미지를 추출합니다.
+<img src="https://user-images.githubusercontent.com/20950569/161184055-caea1300-fabe-49a8-841a-5256efe83090.png" width="400" height="140"/>
+<img src="https://user-images.githubusercontent.com/20950569/161183567-d838720c-8022-4040-b1e7-4d3a18a4a51a.png" width="400" height="140"/>
+<img src="https://user-images.githubusercontent.com/20950569/161184140-8d67143a-1ef7-4ef4-ba54-4fb992309c0d.png" width="400" height="140"/>
+<img src="https://user-images.githubusercontent.com/20950569/161184145-30be672c-89e8-4812-813c-6d37a4b1401c.png" width="400" height="140"/>
 
 #### 분리된 각 문자가 어떤 문자에 해당하는지 인식합니다
 #### 인식된 수식을 계산하여 정답을 도출합니다
