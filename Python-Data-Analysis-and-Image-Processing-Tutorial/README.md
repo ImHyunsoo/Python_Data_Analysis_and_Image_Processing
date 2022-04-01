@@ -1,6 +1,5 @@
-## 파이썬을 활용한 데이터 분석과 이미지 처리
-* 파이썬을 활용한 데이터 분석과 이미지 처리 강의자료 및 소스코드를 저장하는 Repository입니다.
-* 현재 목차 상의 모든 영상이 유튜브에 업로드 되었습니다. (2019-10-05)
+##  나동빈님 파이썬을 활용한 데이터 분석과 이미지 처리
+* 나동빈님의 파이썬을 활용한 데이터 분석과 이미지 처리 강의자료 및 소스코드
 
 ### 목차 구성
 * 0강: 강의 소개 [(:bookmark_tabs: 강의 자료)](/00.%20강의%20소개/) [(:link: 유튜브 강의 보러가기)](https://www.youtube.com/watch?v=V8Lpf3WCZ4g&list=PLRx0vPvlEmdBx9X5xSgcEk4CEbzEiws8C&index=1)
@@ -35,8 +34,4 @@
 * 29강: 네이버 영화 리뷰 데이터 분석 1 - 영화 정보 크롤링 [(:bookmark_tabs: 강의 자료)](/29.%20네이버%20영화%20리뷰%20데이터%20분석%20①%20영화%20정보%20크롤링/) [(:link: 유튜브 강의 보러가기)](https://www.youtube.com/watch?v=8rgCwpA4Fms&list=PLRx0vPvlEmdBx9X5xSgcEk4CEbzEiws8C&index=30)
 * 30강: 네이버 영화 리뷰 데이터 분석 2 - 데이터 시각화 [(:bookmark_tabs: 강의 자료)](/30.%20네이버%20영화%20리뷰%20데이터%20분석%20②%20데이터%20시각화/) [(:link: 유튜브 강의 보러가기)](https://www.youtube.com/watch?v=L4WMGMtmXFA&list=PLRx0vPvlEmdBx9X5xSgcEk4CEbzEiws8C&index=31)
 
-### 강의 내용 오류 정정
 
-* 강의 내용에 오류가 있는 경우, 유튜브 댓글 혹은 이슈(Issue)를 남겨 주세요.
-* 16강 KNN Algorithm
-    * KNN은 학습 데이터(Training Data)의 레이블이 필요하므로 지도 학습(Supervised Learning)의 일종입니다.
