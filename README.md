@@ -39,7 +39,7 @@
 ##### 데이터 정제
 * 색상별로 이미지를 추출합니다.
 <img src="https://user-images.githubusercontent.com/20950569/161184288-a247ad1f-75aa-4472-831d-d810aba10970.png" width="400" height="140"/>
-<img src="https://user-images.githubusercontent.com/20950569/161183567-d838720c-8022-4040-b1e7-4d3a18a4a51a.png" width="400" height="140"/>
+<img src="https://user-images.githubusercontent.com/20950569/161184404-032bb97f-d494-452a-a244-d91a67f59fde.png" width="400" height="140"/>
 <img src="https://user-images.githubusercontent.com/20950569/161184140-8d67143a-1ef7-4ef4-ba54-4fb992309c0d.png" width="400" height="140"/>
 <img src="https://user-images.githubusercontent.com/20950569/161184145-30be672c-89e8-4812-813c-6d37a4b1401c.png" width="400" height="140"/>
 
