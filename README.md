@@ -51,11 +51,7 @@
 <img src="https://user-images.githubusercontent.com/20950569/161185365-10b96e39-3467-42a8-a8ea-93b2ea5d5742.png" width="20" height="20"/>
 <img src="https://user-images.githubusercontent.com/20950569/161185368-169ff5c6-7c82-4521-9b88-1d975dd04f3e.png" width="20" height="20"/>
 
-<img src="https://user-images.githubusercontent.com/20950569/161185361-6a1bd244-2110-4c44-b93f-c0fa8dcadafa.png" width="20" height="20"/>
-<img src="https://user-images.githubusercontent.com/20950569/161185361-6a1bd244-2110-4c44-b93f-c0fa8dcadafa.png" width="20" height="20"/>
-<img src="https://user-images.githubusercontent.com/20950569/161185361-6a1bd244-2110-4c44-b93f-c0fa8dcadafa.png" width="20" height="20"/>
-<img src="https://user-images.githubusercontent.com/20950569/161185361-6a1bd244-2110-4c44-b93f-c0fa8dcadafa.png" width="20" height="20"/>
-<img src="https://user-images.githubusercontent.com/20950569/161185361-6a1bd244-2110-4c44-b93f-c0fa8dcadafa.png" width="20" height="20"/>
+<img src="https://user-images.githubusercontent.com/20950569/161185361-6a1bd244-2110-4c44-b93f-c0fa8dcadafa.png" width="20" height="20"/> <img src="https://user-images.githubusercontent.com/20950569/161185361-6a1bd244-2110-4c44-b93f-c0fa8dcadafa.png" width="20" height="20"/> <img src="https://user-images.githubusercontent.com/20950569/161185361-6a1bd244-2110-4c44-b93f-c0fa8dcadafa.png" width="20" height="20"/> <img src="https://user-images.githubusercontent.com/20950569/161185361-6a1bd244-2110-4c44-b93f-c0fa8dcadafa.png" width="20" height="20"/> <img src="https://user-images.githubusercontent.com/20950569/161185361-6a1bd244-2110-4c44-b93f-c0fa8dcadafa.png" width="20" height="20"/>
 
 
 #### 2. 분리된 각 문자가 어떤 문자에 해당하는지 인식합니다
