@@ -1,7 +1,6 @@
 # 나동빈님 Python_Data_Analysis_and_Image_Processing 강의 스터디
 [나동빈님 강의 리포지터리](https://github.com/ndb796/Python-Data-Analysis-and-Image-Processing-Tutorial)
-
-[나동빈님 유튜브 강의](https://www.youtube.com/watch?v=V8Lpf3WCZ4g&list=PLRx0vPvlEmdBx9X5xSgcEk4CEbzEiws8C)
+   [나동빈님 유튜브 강의](https://www.youtube.com/watch?v=V8Lpf3WCZ4g&list=PLRx0vPvlEmdBx9X5xSgcEk4CEbzEiws8C)
 
 ## 강좌 목표
 * Python 을 이용하여 현실 세계의 다양한 실전 데이터를 처리해볼 수 있습니다
