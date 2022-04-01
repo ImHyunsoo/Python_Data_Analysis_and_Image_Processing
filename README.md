@@ -28,20 +28,20 @@
 * K-Nearest Neighbot, KNN은 지도학습의 간단한 예로, 다양한 레이블의 데이터 중에서, 자신과 가까운 데이터를 찾아 자신의 레이블을 결정하는 방식입니다. 이후 Captcha 해킹할 때 숫자 이미지를 학습하여 수식의 각 숫자 및 연산 기호를 인식하는데 사용됩니다.
 
 ### Captcha 해킹
-#### 특정한 수식 사진을 OpenCV 로 처리하여 각 문자를 하나씩 분리합니다
-##### 데이터 수집과 분석
+#### 1. 특정한 수식 사진을 OpenCV 로 처리하여 각 문자를 하나씩 분리합니다
+##### 1) 데이터 수집과 분석
 * 웹 브라우저를 통해 데이터를 수집합니다. 
 <img src="https://user-images.githubusercontent.com/20950569/161182942-d709f322-519e-4719-b01b-b0ab05e10f52.png" width="400" height="140"/>
 
 * 색상 추출기를 활용하여, 각 문자의 색상이 어떻게 구성되어 있는지 확인합니다.
 <img src="https://user-images.githubusercontent.com/20950569/161183567-d838720c-8022-4040-b1e7-4d3a18a4a51a.png" width="400" height="140"/>
 
-##### 데이터 정제
+##### 2) 데이터 정제
 * 색상별로 이미지를 추출합니다.
 <img src="https://user-images.githubusercontent.com/20950569/161184288-a247ad1f-75aa-4472-831d-d810aba10970.png" width="400" height="140"/>
 <img src="https://user-images.githubusercontent.com/20950569/161184404-032bb97f-d494-452a-a244-d91a67f59fde.png" width="400" height="140"/>
 <img src="https://user-images.githubusercontent.com/20950569/161184140-8d67143a-1ef7-4ef4-ba54-4fb992309c0d.png" width="400" height="140"/>
 <img src="https://user-images.githubusercontent.com/20950569/161184145-30be672c-89e8-4812-813c-6d37a4b1401c.png" width="400" height="140"/>
 
-#### 분리된 각 문자가 어떤 문자에 해당하는지 인식합니다
-#### 인식된 수식을 계산하여 정답을 도출합니다
+#### 2. 분리된 각 문자가 어떤 문자에 해당하는지 인식합니다
+#### 3. 인식된 수식을 계산하여 정답을 도출합니다
