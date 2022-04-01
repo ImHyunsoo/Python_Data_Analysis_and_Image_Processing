@@ -31,3 +31,4 @@
 - 특정한 수식 사진을 OpenCV 로 처리하여 각 문자를 하나씩 분리합니다
 #*- 분리된 각 문자가 어떤 문자에 해당하는지 인식합니다
 - 인식된 수식을 계산하여 정답을 도출합니다
+<img src="https://user-images.githubusercontent.com/20950569/161182942-d709f322-519e-4719-b01b-b0ab05e10f52.png" width="400" height="140"/>
