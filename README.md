@@ -93,4 +93,4 @@
 * 데이터 프레임화
 * 다수의 영화 데이터 시각화1
 * 다수의 영화 데이터 시각화2
-    <img src="https://user-images.githubusercontent.com/20950569/161227842-c2a31d8c-be3d-4fc5-b245-9203b0426528.png" width="300" height="250"/>
+<img src="https://user-images.githubusercontent.com/20950569/161227842-c2a31d8c-be3d-4fc5-b245-9203b0426528.png" width="300" height="250"/>
